@@ -1,4 +1,4 @@
-public type Doubt = {
+export type Doubt = {
   id: string;
   user_id: string;
   title: string;
